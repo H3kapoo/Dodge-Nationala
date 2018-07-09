@@ -10,6 +10,10 @@
 **Cerințe de sistem**
 
 - Orice sistem cu minimum 512MB RAM.
+
+**Realizatori**
+ Boje Andrei Daniel
+
 ![img](https://github.com/H3kapoo/Dodge-Nationala/blob/master/Images/Screenshot_1.png)
 ![img](https://github.com/H3kapoo/Dodge-Nationala/blob/master/Images/Screenshot_2.png)
 ![img](https://github.com/H3kapoo/Dodge-Nationala/blob/master/Images/Screenshot_3.png)
