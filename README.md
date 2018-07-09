@@ -10,4 +10,4 @@
 **Cerințe de sistem**
 
 - Orice sistem cu minimum 512MB RAM.
-![img](https://imgur.com/a/UIqU1dY.png)
+![img](Dodge-Nationala/Screenshot_1.png)
